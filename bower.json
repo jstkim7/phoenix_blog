@@ -1,0 +1,6 @@
+{
+  "name": "phoenix_blog",
+  "dependencies": {
+    "foundation": "~5.5.0"
+  }
+}
